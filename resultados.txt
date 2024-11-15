@@ -1,0 +1,12 @@
+
+	One Sample t-test
+
+data:  dados[[variavel]]
+t = 4.5455, df = 29, p-value = 8.953e-05
+alternative hypothesis: true mean is not equal to 2
+95 percent confidence interval:
+ 2.497799 3.312201
+sample estimates:
+mean of x 
+    2.905 
+
