@@ -34,7 +34,7 @@ Este script R realiza uma análise exploratória de um conjunto de dados contido
 
 ## 📊Exemplos de gráficos criado pelo script:
 
-<img src="https://github.com/PedroHSS01/Um-Exemplo-em-R-de-AED/blob/main/Gr%C3%A1ficos/Rplot.dados$Salario%20~%20dados$N_Filhos,%20ylab%20=%20'Salario',%20xlab%20=%20'N%C2%B0%20de%20Filhos'.png?raw=true" width="300"> <img src="https://github.com/PedroHSS01/Um-Exemplo-em-R-de-AED/blob/main/Gr%C3%A1ficos/Rplot.Histograma%20da%20Idade%20(Anos).png?raw=true" width="300"> <img src="https://github.com/PedroHSS01/Um-Exemplo-em-R-de-AED/blob/main/Gr%C3%A1ficos/Rplot.dados$Altura%20~%20dados$Idade,%20ylab%20=%20'Altura',%20xlab%20=%20'Idade'.png?raw=true" width="300">
+<img src="https://github.com/PedroHSS01/Um-Exemplo-em-R-de-AED/blob/main/Gr%C3%A1ficos/Rplot.dados$Salario%20~%20dados$N_Filhos,%20ylab%20=%20'Salario',%20xlab%20=%20'N%C2%B0%20de%20Filhos'.png?raw=true" width="300">  <img src="https://github.com/PedroHSS01/Um-Exemplo-em-R-de-AED/blob/main/Gr%C3%A1ficos/Rplot.dados$Altura%20~%20dados$Idade,%20ylab%20=%20'Altura',%20xlab%20=%20'Idade'.png?raw=true" width="300"> <img src="https://github.com/PedroHSS01/Um-Exemplo-em-R-de-AED/blob/main/Gr%C3%A1ficos/Rplot.Histograma%20do%20N%C3%BAmero%20de%20Filhos.png?raw=true" width="300"> <img src="https://github.com/PedroHSS01/Um-Exemplo-em-R-de-AED/blob/main/Gr%C3%A1ficos/Rplot.Histograma%20da%20Idade%20(Anos).png?raw=true" width="300">
 
 ## 👀Analisando o Boxplot e Histograma
 O boxplot apresentado mostra a relação entre o número de filhos e o salário de um grupo de pessoas. Através dele, podemos extrair as seguintes informações: 
